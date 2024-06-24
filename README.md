@@ -1,3 +1,5 @@
+# ☞ ¡ According to ChatGPT 4o ! ☜
+
 ## To determine if two functions have the same shape but are shifted along the x or y axis, you can use the following steps:
 
 ### 1. Basic Form of Functions
